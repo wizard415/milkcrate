@@ -1,0 +1,6 @@
+<resources>
+    <string moduleConfig="true" name="reactNativeCodePush_androidDeploymentKey">V4mB9l8rCnw8Q3CYIpzvrpqaRl3xVkRF2K1oG</string>
+    <string name="app_name">MilkCrate</string>
+    <string name="account_type">com.milkcrate.account</string>
+    <string name="content_authority">com.milkcrate.authority</string>
+</resources>
